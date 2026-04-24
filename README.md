@@ -1,147 +1,143 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=120&section=header&animation=fadeIn"/>
-
-<!-- Typing Intro -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1A56A0&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Shahzad+%F0%9F%91%8B;MERN+Stack+Developer;Full-Stack+JavaScript+Engineer;Building+Real-World+Web+Apps" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shahzad821&color=1A56A0&style=flat-square&label=Profile+Views" alt="profile views"/>
-
-</div>
-
----
-
-<!-- About Me -->
-## 🧑‍💻 About Me
-
-```javascript
-const shahzad = {
-  location  : "Rahim Yar Khan, Punjab, Pakistan 🇵🇰",
-  education : "B.Sc Software Engineering @ Islamia University of Bahawalpur (CGPA: 3.69/4.00)",
-  role      : "Front-End Developer @ HiSkyTech (Jun – Sep 2024)",
-  stack     : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  learning  : ["TypeScript", "Next.js", "System Design"],
-  passion   : "Turning ideas into production-ready web applications ⚡",
-};
-```
-
----
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
 
 <div align="center">
-
-### 🚀 Core Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Libraries & APIs
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-<!-- Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏪 Project | 📝 Description | 🔧 Stack | 🔗 Link |
-|------------|---------------|---------|---------|
-| **ShotIt** | Production-grade e-commerce platform with real-time order tracking & Stripe payments | `React` `Node.js` `Express` `MongoDB` `Stripe` | 🔒 Private |
-| **Chat-App** | Real-time messaging platform with JWT auth & sub-100ms delivery | `React` `Socket.IO` `Node.js` `MongoDB` `JWT` | 🔒 Private |
-| **NewSync** | Multi-category digital news platform with SSR & SEO optimization | `Next.js` `SSR` `SEO` `Analytics` | [🌐 newsync.site](https://newsync.site) |
-| **YTInfo** | YouTube channel analytics tool — stats, metadata & engagement metrics | `Next.js` `TypeScript` `YouTube API` `Tailwind` | [🌐 ytinfo.online](https://ytinfo.online) |
-
-</div>
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahzad821&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=1A56A0&title_color=1A56A0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad821&layout=compact&theme=tokyonight&border_color=1A56A0&title_color=1A56A0"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzad821&theme=tokyonight&border=1A56A0&ring=1A56A0&fire=FF6B6B&currStreakLabel=1A56A0" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Shahzad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahzad821&theme=tokyo-night&color=1A56A0&line=1A56A0&point=FFFFFF&area=true)](https://github.com/Shahzad821)
-
-</div>
-
----
-
-<!-- Snake animation -->
-## 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzad821/Shahzad821/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzad821/Shahzad821/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shahzad821/Shahzad821/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- Connect -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shahzad)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahzad821)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzadmumtaz821@gmail.com)
-[![Portfolio](https://img.shields.io/badge/NewSync-%231A56A0.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://newsync.site)
-[![YTInfo](https://img.shields.io/badge/YTInfo-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://ytinfo.online)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Muhammad+Shahzad;Software+Engineer+%7C+MERN+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shahzad)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahzadmumtaz821@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahzad821)
+&nbsp;
+[![NewSync](https://img.shields.io/badge/newsync.site-1A56A0?style=flat-square&logo=google-chrome&logoColor=white)](https://newsync.site)
+&nbsp;
+[![YTInfo](https://img.shields.io/badge/ytinfo.online-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://ytinfo.online)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Shahzad821&style=flat-square&color=1A56A0&label=Profile+Views)
+
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=100&section=footer&animation=fadeIn"/>
+---
+
+### 👋 About Me
+
+I'm a **Full-Stack JavaScript Engineer** based in Pakistan, specialising in the **MERN stack**. I build scalable web applications, real-time communication systems, and production-grade platforms — from architecture to deployment.
+
+- 🎓 &nbsp;B.Sc. Software Engineering · Islamia University of Bahawalpur &nbsp;·&nbsp; **CGPA: 3.69 / 4.00**
+- 💼 &nbsp;Front-End Developer @ **HiSkyTech** *(Jun – Sep 2024)*
+- 🌍 &nbsp;Rahim Yar Khan, Punjab, Pakistan
+- 📬 &nbsp;Reach me at **shahzadmumtaz821@gmail.com**
+- 🔭 &nbsp;Currently deepening expertise in **TypeScript**, **Next.js**, and **System Design**
+
+---
+
+### 🧰 Technical Skills
+
+**Stack**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Styling**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Libraries & APIs**
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 ShotIt — E-Commerce Platform</h4>
+      <p>Production-grade e-commerce application with a responsive React UI, real-time order tracking, scalable Node.js/Express backend, and automated Stripe webhook processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 Chat-App — Real-Time Messaging</h4>
+      <p>Deployed messaging platform with one-to-one and group conversations, JWT authentication, and Socket.IO delivering sub-100ms message latency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📰 NewSync — Digital News Platform &nbsp;<a href="https://newsync.site">↗ Live</a></h4>
+      <p>Multi-category news platform built with Next.js and server-side rendering for optimal SEO. Features social media integration, CMS workflows, and analytics-driven architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SSR-1A56A0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 YTInfo — YouTube Analytics Tool &nbsp;<a href="https://ytinfo.online">↗ Live</a></h4>
+      <p>Type-safe YouTube analytics tool built with Next.js and TypeScript. Retrieves channel stats, video metadata, and engagement metrics via the YouTube Data API with SSR for fast loads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahzad821&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=1A56A0&icon_color=1A56A0"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad821&layout=compact&theme=github_dark&hide_border=true&title_color=1A56A0"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzad821&theme=github-dark-blue&hide_border=true&ring=1A56A0&fire=1A56A0&currStreakLabel=1A56A0"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Software Engineer · MERN Stack · Open to opportunities</sub>
+</div>
