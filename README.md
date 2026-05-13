@@ -1,17 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
      PRODUCTION-READY README — Muhammad Shahzad
-
-     ⚠️  ONE-TIME SETUP FOR ACCURATE GITHUB STATS:
-     1. Fork https://github.com/anuraghazra/github-readme-stats
-     2. Deploy your fork free at https://vercel.com
-     3. In Vercel → Settings → Environment Variables, add:
-          PAT_1 = your GitHub personal access token
-          (generate at https://github.com/settings/tokens
-           scopes needed: read:user  +  repo)
-     4. Redeploy once after adding the token.
-     5. Replace YOUR-STATS-INSTANCE in the Stats section below
-        with your Vercel domain, e.g.:
-          github-readme-stats-shahzad821.vercel.app
      ═══════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
@@ -140,9 +128,11 @@ I'm a **Full-Stack JavaScript Engineer** based in Pakistan, specialising in the 
 
 ---
 
+### 📈 GitHub Stats
 
-
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahzad821&theme=dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
