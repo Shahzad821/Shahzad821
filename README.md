@@ -1,3 +1,19 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     PRODUCTION-READY README — Muhammad Shahzad
+
+     ⚠️  ONE-TIME SETUP FOR ACCURATE GITHUB STATS:
+     1. Fork https://github.com/anuraghazra/github-readme-stats
+     2. Deploy your fork free at https://vercel.com
+     3. In Vercel → Settings → Environment Variables, add:
+          PAT_1 = your GitHub personal access token
+          (generate at https://github.com/settings/tokens
+           scopes needed: read:user  +  repo)
+     4. Redeploy once after adding the token.
+     5. Replace YOUR-STATS-INSTANCE in the Stats section below
+        with your Vercel domain, e.g.:
+          github-readme-stats-shahzad821.vercel.app
+     ═══════════════════════════════════════════════════════════════ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
 
 <div align="center">
@@ -126,10 +142,17 @@ I'm a **Full-Stack JavaScript Engineer** based in Pakistan, specialising in the 
 
 ### 📊 GitHub Statistics
 
+<!--
+  ⚠️  REPLACE  YOUR-STATS-INSTANCE  below with your own Vercel domain
+  after completing the one-time setup described at the top of this file.
+  Example final URL:
+    https://github-readme-stats-shahzad821.vercel.app/api?username=Shahzad821&...
+-->
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahzad821&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=1A56A0&icon_color=1A56A0&cache_seconds=1800"/>
+  <img height="170" src="https://YOUR-STATS-INSTANCE/api?username=Shahzad821&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=1A56A0&icon_color=1A56A0&cache_seconds=1800"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad821&layout=compact&theme=github_dark&hide_border=true&title_color=1A56A0&cache_seconds=1800"/>
+  <img height="170" src="https://YOUR-STATS-INSTANCE/api/top-langs/?username=Shahzad821&layout=compact&theme=github_dark&hide_border=true&title_color=1A56A0&cache_seconds=1800&langs_count=8"/>
 </div>
 
 <div align="center">
