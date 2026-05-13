@@ -127,13 +127,13 @@ I'm a **Full-Stack JavaScript Engineer** based in Pakistan, specialising in the 
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahzad821&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=1A56A0&icon_color=1A56A0"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahzad821&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=1A56A0&icon_color=1A56A0&cache_seconds=1800"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad821&layout=compact&theme=github_dark&hide_border=true&title_color=1A56A0"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad821&layout=compact&theme=github_dark&hide_border=true&title_color=1A56A0&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzad821&theme=github-dark-blue&hide_border=true&ring=1A56A0&fire=1A56A0&currStreakLabel=1A56A0"/>
+  <img src="https://streak-stats.demolab.com/?user=Shahzad821&theme=github-dark-blue&hide_border=true&ring=1A56A0&fire=1A56A0&currStreakLabel=1A56A0"/>
 </div>
 
 ---
