@@ -140,24 +140,9 @@ I'm a **Full-Stack JavaScript Engineer** based in Pakistan, specialising in the 
 
 ---
 
-### 📊 GitHub Statistics
 
-<!--
-  ⚠️  REPLACE  YOUR-STATS-INSTANCE  below with your own Vercel domain
-  after completing the one-time setup described at the top of this file.
-  Example final URL:
-    https://github-readme-stats-shahzad821.vercel.app/api?username=Shahzad821&...
--->
 
-<div align="center">
-  <img height="170" src="https://YOUR-STATS-INSTANCE/api?username=Shahzad821&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=1A56A0&icon_color=1A56A0&cache_seconds=1800"/>
-  &nbsp;
-  <img height="170" src="https://YOUR-STATS-INSTANCE/api/top-langs/?username=Shahzad821&layout=compact&theme=github_dark&hide_border=true&title_color=1A56A0&cache_seconds=1800&langs_count=8"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shahzad821&theme=github-dark-blue&hide_border=true&ring=1A56A0&fire=1A56A0&currStreakLabel=1A56A0"/>
-</div>
 
 ---
 
